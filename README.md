@@ -2,7 +2,8 @@
 
 # Project introduction
 
-Leukemic cell identification (specifically Acute Lymphocytic Leukemia) project by image.
+Leukemic cell identification (specifically Acute Lymphoblastic Leukemia) project by image.
+Project is completed using google colab and pytorch wit 88% accuracy upon completion.
 
 ## workflow
 
@@ -22,3 +23,10 @@ Initial model took some time to create. Pytorch was used for the project, and I 
 before I could begin. .bnp files were computationally expensive to process, and inital models contained errors
 that significantly slowed down the process - even working with google colab.
 Edit increased training speed around 30x faster.
+
+## Closing remarks
+
+Cell image identification by machine learning has brought together aspects of my previous career in medical lab science
+and a new data science endevour, expanding my learing and skillset.
+
+I look foreward to future projects to analyze other images of different cell morphologies, and other data types - like sound files.
